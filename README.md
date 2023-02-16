@@ -6,8 +6,8 @@ The design of these icons is compatible with the [Rainbow Folders](https://asset
 
 ## Dark Theme
 
-<img src="https://user-images.githubusercontent.com/5264444/219349177-c97d527d-4199-48bd-9cec-5811f40f5703.png">
+![Dark](https://user-images.githubusercontent.com/5264444/219367565-2cdbfc53-aeaa-4d91-9966-de6e5877494a.png)
 
 ## Light Theme
 
-<img src="https://user-images.githubusercontent.com/5264444/219351848-06915e21-4acb-4402-a0db-5bcfef21876d.png">
+![Light](https://user-images.githubusercontent.com/5264444/219367571-7f0158f9-cdca-4e82-90f5-e450c82c2c2c.png)
